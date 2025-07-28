@@ -45,4 +45,4 @@ def main():
         except ValueError as e:
             print(e)
 
-if
+main()
