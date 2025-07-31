@@ -29,7 +29,7 @@ def main():
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
     except ValueError:
-        print("Invalid input. Please enter numbers.")
+        print("Invalid input. Please enter numbers my friend")
         return
 
     if choice == '1':
